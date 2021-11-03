@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Simple Cartets -->
+  <SimpleCarpetDan_q.label>質素な絨毯A</SimpleCarpetDan_q.label>
+  <SimpleCarpetDan_q.description>電力線を内蔵した複雑な模様がない質素なカーペットです。\n模様の複雑さ：1.\n基礎美しさ：3</SimpleCarpetDan_q.description>
+  <Blueprint_SimpleCarpetDan_q.label>質素な絨毯A (設計)</Blueprint_SimpleCarpetDan_q.label>
+  <Frame_SimpleCarpetDan_q.label>質素な絨毯A (施工)</Frame_SimpleCarpetDan_q.label>
+  <Frame_SimpleCarpetDan_q.description>電力線を内蔵した複雑な模様がない質素なカーペットです。\n模様の複雑さ：1.\n基礎美しさ：3</Frame_SimpleCarpetDan_q.description>
+  <SimpleCarpetDan_w.label>質素な絨毯B</SimpleCarpetDan_w.label>
+  <SimpleCarpetDan_w.description>電力線を内蔵した複雑な模様がない質素なカーペットです。\n模様の複雑さ：1.\n基礎美しさ：3</SimpleCarpetDan_w.description>
+  <Blueprint_SimpleCarpetDan_w.label>質素な絨毯B (設計)</Blueprint_SimpleCarpetDan_w.label>
+  <Frame_SimpleCarpetDan_w.label>質素な絨毯B (施工)</Frame_SimpleCarpetDan_w.label>
+  <Frame_SimpleCarpetDan_w.description>電力線を内蔵した複雑な模様がない質素なカーペットです。\n模様の複雑さ：1.\n基礎美しさ：3</Frame_SimpleCarpetDan_w.description>
+  <SimpleCarpetDan_e.label>質素な絨毯C</SimpleCarpetDan_e.label>
+  <SimpleCarpetDan_e.description>電力線を内蔵した複雑な模様がない質素なカーペットです。\n模様の複雑さ：1.\n基礎美しさ：3</SimpleCarpetDan_e.description>
+  <Blueprint_SimpleCarpetDan_e.label>質素な絨毯C (設計)</Blueprint_SimpleCarpetDan_e.label>
+  <Frame_SimpleCarpetDan_e.label>質素な絨毯C (施工)</Frame_SimpleCarpetDan_e.label>
+  <Frame_SimpleCarpetDan_e.description>電力線を内蔵した複雑な模様がない質素なカーペットです。\n模様の複雑さ：1.\n基礎美しさ：3</Frame_SimpleCarpetDan_e.description>
+  <!-- Simple Patterned Cartets -->
+  <ChessCarpetDan.label>格子柄絨毯</ChessCarpetDan.label>
+  <ChessCarpetDan.description>電力線を内蔵した質素な格子模様のカーペットです。\n基礎美しさ：4</ChessCarpetDan.description>
+  <Blueprint_ChessCarpetDan.label>格子柄絨毯 (設計)</Blueprint_ChessCarpetDan.label>
+  <Frame_ChessCarpetDan.label>格子柄絨毯 (施工)</Frame_ChessCarpetDan.label>
+  <Frame_ChessCarpetDan.description>電力線を内蔵した質素な格子模様のカーペットです。\n基礎美しさ：4</Frame_ChessCarpetDan.description>
+  <StripedCarpetDan.label>縞模様絨毯</StripedCarpetDan.label>
+  <StripedCarpetDan.description>電力線を内蔵した質素な縞模様のカーペットです。\n基礎美しさ：4</StripedCarpetDan.description>
+  <Blueprint_StripedCarpetDan.label>縞模様絨毯 (設計)</Blueprint_StripedCarpetDan.label>
+  <Frame_StripedCarpetDan.label>縞模様絨毯 (施工)</Frame_StripedCarpetDan.label>
+  <Frame_StripedCarpetDan.description>電力線を内蔵した質素な縞模様のカーペットです。\n基礎美しさ：4</Frame_StripedCarpetDan.description>
+  <!-- Advanced Patterned Cartets -->
+  <AdvCarpetDan_q.label>高級な絨毯A</AdvCarpetDan_q.label>
+  <AdvCarpetDan_q.description>電力線を内蔵した複雑な模様の高級なカーペットです。\n模様の複雑さ：1\n基礎美しさ：5</AdvCarpetDan_q.description>
+  <Blueprint_AdvCarpetDan_q.label>高級な絨毯A (設計)</Blueprint_AdvCarpetDan_q.label>
+  <Frame_AdvCarpetDan_q.label>高級な絨毯A (施工)</Frame_AdvCarpetDan_q.label>
+  <Frame_AdvCarpetDan_q.description>電力線を内蔵した複雑な模様の高級なカーペットです。\n模様の複雑さ：1\n基礎美しさ：5</Frame_AdvCarpetDan_q.description>
+  <AdvCarpetDan_w.label>高級な絨毯B</AdvCarpetDan_w.label>
+  <AdvCarpetDan_w.description>電力線を内蔵した複雑な模様の高級なカーペットです。\n模様の複雑さ：2\n基礎美しさ：5</AdvCarpetDan_w.description>
+  <Blueprint_AdvCarpetDan_w.label>高級な絨毯B (設計)</Blueprint_AdvCarpetDan_w.label>
+  <Frame_AdvCarpetDan_w.label>高級な絨毯B (施工)</Frame_AdvCarpetDan_w.label>
+  <Frame_AdvCarpetDan_w.description>電力線を内蔵した複雑な模様の高級なカーペットです。\n模様の複雑さ：2\n基礎美しさ：5</Frame_AdvCarpetDan_w.description>
+  <AdvCarpetDan_e.label>高級な絨毯C</AdvCarpetDan_e.label>
+  <AdvCarpetDan_e.description>電力線を内蔵した複雑な模様の高級なカーペットです。\n模様の複雑さ：3\n基礎美しさ：5</AdvCarpetDan_e.description>
+  <Blueprint_AdvCarpetDan_e.label>高級な絨毯C (設計)</Blueprint_AdvCarpetDan_e.label>
+  <Frame_AdvCarpetDan_e.label>高級な絨毯C (施工)</Frame_AdvCarpetDan_e.label>
+  <Frame_AdvCarpetDan_e.description>電力線を内蔵した複雑な模様の高級なカーペットです。\n模様の複雑さ：3\n基礎美しさ：5</Frame_AdvCarpetDan_e.description>
+  <!-- Elite Patterned Cartets -->
+  <GoldenCarpetDan.label>黄金の絨毯</GoldenCarpetDan.label>
+  <GoldenCarpetDan.description>燃えにくい黄金タイルの上に敷かれた、電力線を内蔵した豪華なカーペットです。\n基礎美しさ：7</GoldenCarpetDan.description>
+  <Blueprint_GoldenCarpetDan.label>黄金の絨毯 (設計)</Blueprint_GoldenCarpetDan.label>
+  <Frame_GoldenCarpetDan.label>黄金の絨毯 (施工)</Frame_GoldenCarpetDan.label>
+  <Frame_GoldenCarpetDan.description>燃えにくい黄金タイルの上に敷かれた、電力線を内蔵した豪華なカーペットです。\n基礎美しさ：7</Frame_GoldenCarpetDan.description>
+  <EliteCarpetDan.label>豪華な絨毯</EliteCarpetDan.label>
+  <EliteCarpetDan.description>絨毯の素材に貴重なスランボの毛皮が使われている、電力線を内蔵した豪華なカーペットです。燃えにくく、室内の清潔さが少し改善します。\n基礎美しさ：7</EliteCarpetDan.description>
+  <Blueprint_EliteCarpetDan.label>豪華な絨毯 (設計)</Blueprint_EliteCarpetDan.label>
+  <Frame_EliteCarpetDan.label>豪華な絨毯 (施工)</Frame_EliteCarpetDan.label>
+  <Frame_EliteCarpetDan.description>絨毯の素材に貴重なスランボの毛皮が使われている、電力線を内蔵した豪華なカーペットです。燃えにくく、室内の清潔さが少し改善します。\n基礎美しさ：7</Frame_EliteCarpetDan.description>
+</LanguageData>

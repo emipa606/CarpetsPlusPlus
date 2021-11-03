@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Carpets++ 1.2</name>
+  <author>Daniledman</author>
+  <packageId>Daniledman.Carpets</packageId>
+  <description>	
+Have you ever wanted to choose the size of the carpet for your premises, and not make the premises to fit the size of the carpets? This mod is for you!
+The "Carpets +" mod adds 10 unique customizable carpets to the game.
+and their overall beauty score is added up. There are a lot of colors, because the color of the carpet depends on the textiles from which it is created, for example, for a green carpet.
+iguana skin is suitable, for red - devil cloth, the type of material also affects the beauty of the carpet. The carpets themselves are not clickable, you cannot click on them with the mouse cursor when they are already built, but they can be disassembled
+the corresponding order. All rugs from the mod include built-in wiring that is short-circuit proof so you don't have to wiring
+over carpets where needed. All carpets are opened by appropriate research after Carpet Weaving. The carpets are in the "Structures" tab.
+All mod carpets can only be built on man-made floors and on quays (in fact, you would not build carpets on sand or soil).
+There are 10 types of carpets in total, 5 simple and 5 complex carpets:
+
+Opens with the Carpets + research:
+-3 types of simple rugs
+-chess carpet
+-striped carpet
+
+Opened with Carpets ++ Research
+-3 types of intricate carpets
+-gold carpet
+-elite carpet
+
+Please add the mod to your favorites and like it if you like the mod.
+
+
+  
+Хотели когда-нибудь сами выбирать размер ковра под свои помещения, а не делать помещения под размер ковров? Этот мод для вас!
+Мод "Carpets+  добавляет в игру 10 уникальных настраивыемых по размеру ковров, не являющимися покрытиями. Ковры из этого мода стелятся поверх покрытиями
+и их общий показатель красоты суммируется. Цветов очень много, ведь цвет ковра зависит от текстиля, из которого он создается, например, для зеленого ковра
+подойдет кожа игуаны, для красного - дьяволоткань, тип материала также влияет и на красоту ковра. Сами ковры не кликабельны, на них нельзя нажать курсором мыши, когда они уже построены, но их можно разобрать
+соответствующим приказом. Все ковры из мода включают в себя встроенную проводку, которая защищена от коротких замыканий, поэтому вам не придется проводить проводку 
+поверх ковров, где это необходимо. Все ковры открываются соответствующими исследованиями, находящимися после "Ковроткачества". Ковры находятся во вкладке "Структуры".
+Все ковры из мода можно строить только на рукотворных покрытиях и на причалах (в самом деле не стали же вы бы строить ковры на песке или почве).
+Всего есть 10 типов ковров, 5 простых и 5 сложных ковров:
+
+Открываются исследованием "Ковры+":
+-3 типа простых ковров
+-шахматный ковер
+-полосатый ковер
+
+Открываются исследованием "Ковры++"
+-3 типа сложных ковров
+-золотой ковер
+-элитный ковер
+
+Пожалуйста, добавьте мод в избранное и поставьте лайк, если мод вам понравился.
+</description>
+  <supportedVersions>
+    <li>1.2</li>
+  </supportedVersions>
+</ModMetaData>

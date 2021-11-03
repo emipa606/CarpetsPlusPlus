@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SimpleCarpetDan_q.label>Простой ковер №1</SimpleCarpetDan_q.label>
+  <SimpleCarpetDan_q.description>Простой стелящийся ковер без сложных узоров.\n Текстура: №1.\n Базовая красота: 3</SimpleCarpetDan_q.description>
+  <SimpleCarpetDan_w.label>Простой ковер №2</SimpleCarpetDan_w.label>
+  <SimpleCarpetDan_w.description>Простой стелящийся ковер без сложных узоров.\n Текстура: №2.\n Базовая красота: 3.</SimpleCarpetDan_w.description>
+  <SimpleCarpetDan_e.label>Простой ковер №3</SimpleCarpetDan_e.label>
+  <SimpleCarpetDan_e.description>Простой стелящийся ковер без сложных узоров.\n Текстура: №3.\n Базовая красота: 3</SimpleCarpetDan_e.description>
+  <ChessCarpetDan.label>Шахматный ковер</ChessCarpetDan.label>
+  <ChessCarpetDan.description>Простой стелящийся ковер с узором шахматной плитки.\n Базовая красота: 4</ChessCarpetDan.description>
+  <StripedCarpetDan.label>Полосатый ковер</StripedCarpetDan.label>
+  <StripedCarpetDan.description>Простой стелящийся полосатый ковер.\n Базовая красота: 4</StripedCarpetDan.description>
+  <AdvCarpetDan_q.label>Узорный ковер №1</AdvCarpetDan_q.label>
+  <AdvCarpetDan_q.description>Стелящийся ковер со сложными узорами.\n Текстура: №1.\n Базовая красота: 5.</AdvCarpetDan_q.description>
+  <AdvCarpetDan_w.label>Узорный ковер №2</AdvCarpetDan_w.label>
+  <AdvCarpetDan_w.description>Стелящийся ковер со сложными узорами.\n Текстура: №2.\n Базовая красота: 5.</AdvCarpetDan_w.description>
+  <AdvCarpetDan_e.label>Узорный ковер №3</AdvCarpetDan_e.label>
+  <AdvCarpetDan_e.description>Стелящийся ковер со сложными узорами.\n Текстура: №3.\n Базовая красота: 5.</AdvCarpetDan_e.description>
+  <GoldenCarpetDan.label>Золотой ковер</GoldenCarpetDan.label>
+  <GoldenCarpetDan.description>Сложный узорный ковер, состоящий из двух цветов, первый - золотой, второй - выбранный материал. \n Базовая красота: 7.</GoldenCarpetDan.description>
+  <EliteCarpetDan.label>Элитный ковер</EliteCarpetDan.label>
+  <EliteCarpetDan.description>Ковер со сложнейшим узором, состоит из шкуры трумбо и из выбранного материала. Двухцветный.\n Базовая красота: 7.</EliteCarpetDan.description>
+</LanguageData>
