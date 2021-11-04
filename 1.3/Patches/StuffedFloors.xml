@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/StuffedFloors.FloorTypeDef[@Name="StuffedFloorsBase"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/StuffedFloors.FloorTypeDef[@Name="StuffedFloorsBase"]/affordances</xpath>
+      <value>
+        <li>Plitka</li>
+      </value>
+    </match>
+  </Operation>
+</Patch>

@@ -1,4 +1,7 @@
 # Changelog for Carpets++
 
+1.0.1.0 - Added support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=853043503]Stuffed Floors[/url]
+
+
 1.0.0.0 - First publish
 
