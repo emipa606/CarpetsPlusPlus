@@ -6,8 +6,9 @@ Update of Daniledmans mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2487332833
 
 - Included the https://steamcommunity.com/sharedfiles/filedetails/?id=2488328014]Japanese Translation by Proxyer
+- Added support for https://steamcommunity.com/sharedfiles/filedetails/?id=853043503]Stuffed Floors
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://i.imgur.com/CN9Rs5X.png)
 
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
